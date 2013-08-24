@@ -1,0 +1,13 @@
+
+#escenario{
+	margin:0 auto;
+	background-color: white;
+
+}
+
+#escenario .level1{
+	/*background: url('../img/Level1.png') no-repeat;*/
+	background-position: 0 12%;
+	height: 500px;
+	
+}

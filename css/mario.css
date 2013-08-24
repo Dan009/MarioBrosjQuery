@@ -1,0 +1,21 @@
+.mario{
+	background: url('../img/88861.png') no-repeat -6px -8px;
+	width: 20px;
+	height: 15px;
+	margin-top: 21%;
+	right: 40%;
+	-moz-transform: scaleX(-1.3)  scaleY(1.4);
+    -o-transform: scaleX(-1.3)  scaleY(1.4);
+    -webkit-transform: scaleX(-1.3)  scaleY(1.4);
+    transform: scaleX(-1.3)  scaleY(1.4);
+
+}
+
+.grandeQuieto{
+	background: url('../img/88861.png') no-repeat -5px -162px;
+}
+
+.big{
+	background-color: black;
+
+}
