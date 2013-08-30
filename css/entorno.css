@@ -1,0 +1,46 @@
+.inline{
+	margin:0;
+	float:left;
+
+}
+
+#escenario{
+	width: 50%;
+	min-height: 200px;
+	margin: 10px auto;
+
+}
+
+.caja-pregunta{
+	background-image: url('../imagenes/prize-box.png');
+	width: 17px;
+	height: 17px;
+
+}
+
+#nivel1{
+	width: 100%;
+	height: 50%;
+	background: url('../imagenes/cloud.jpg') repeat-x,
+	url('../imagenes/ground.jpg') bottom repeat-x,
+	url('../imagenes/mini-montains.png') no-repeat 9% 85%,
+	url('../imagenes/block 1.png') no-repeat 60% 85%,
+	url('../imagenes/pipe.png') no-repeat 85% 95%,
+	url('../imagenes/normalStage.jpg') bottom repeat-x, 
+	#6499FA;
+	border: 3px solid #000;
+
+}
+
+.ground{
+	background-image: url('imagenes/0.jpg');
+
+}
+
+.pegado{
+	transform:translate(5px,0px);
+	-ms-transform:translate(5px,0px);
+	-webkit-transform:translate(5px,0px);
+	-o-transform:translate(5px,0px);
+
+}
